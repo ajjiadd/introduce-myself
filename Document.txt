@@ -1,5 +1,7 @@
 Hello!
 I'm Abdullah Al Jiad (A J)
-Department of computer science and engineering (CSE)
+Department of Computer Science and Engineering (CSE)
 Student of Daffodil International University.
 from Bangladesh...🟢🔴
+
+Skills: C / JS / HTML / CSS 
